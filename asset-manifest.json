@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scalework-react/static/css/main.e6c13ad2.css",
+    "main.js": "/scalework-react/static/js/main.2aac3ac9.js",
+    "static/js/453.75e766ed.chunk.js": "/scalework-react/static/js/453.75e766ed.chunk.js",
+    "index.html": "/scalework-react/index.html",
+    "main.e6c13ad2.css.map": "/scalework-react/static/css/main.e6c13ad2.css.map",
+    "main.2aac3ac9.js.map": "/scalework-react/static/js/main.2aac3ac9.js.map",
+    "453.75e766ed.chunk.js.map": "/scalework-react/static/js/453.75e766ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2aac3ac9.js"
+  ]
+}
